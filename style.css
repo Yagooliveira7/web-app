@@ -1,85 +1,9 @@
+*{padding: 0; margin: 0; box-sizing: border-box; font-family:'Trebuchet MS', 'Arial', sans-serif;}
 
-body {
-    font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #6a11cb, #2575fc);
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.container {
-    background-color: #fff;
-    padding: 40px;
-    border-radius: 8px;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
-    max-width: 400px;
-    width: 100%;
-}
-
-h2 {
-    text-align: center;
-    color: #333;
-    font-size: 24px;
-    margin-bottom: 30px;
-}
-
-.input-group {
-    margin-bottom: 20px;
-}
-
-.input-group label {
-    font-weight: 600;
-    color: #555;
-    font-size: 14px;
-    margin-bottom: 5px;
-    display: block;
-}
-
-.input-group input {
-    width: 100%;
-    padding: 15px;
-    font-size: 16px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    transition: all 0.3s ease;
-}
-
-.input-group input:focus {
-    border-color: #2575fc;
-    outline: none;
-}
-
-button {
-    width: 100%;
-    padding: 15px;
-    background-color: #2575fc;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-button:hover {
-    background-color: #6a11cb;
-}
-
-.forgot-password {
-    text-align: center;
-    margin-top: 15px;
-}
-
-.forgot-password a {
-    color: #2575fc;
+.link {
     text-decoration: none;
-    font-size: 14px;
 }
 
-.forgot-password a:hover {
-    text-decoration: underline;
+.link:hover {
+    color: rgba(27, 0, 202, 0.799);
 }
-
