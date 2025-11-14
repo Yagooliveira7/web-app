@@ -1,0 +1,23 @@
+PROJETO WEB APP
+
+- front-end: html, css, js
+- back-end: php
+- banco de dados: mysql
+PÁGINAS PHP
+(1)
+
+- autenticação do usuário > contagem de acesso, bloqueio do usuário(errar nas três vezes), verificação de 1° acesso
+- manutenção de senha
+- cadastro de novos usuários
+
+Entrega: 11/09/2025
+	- disciplinas: back-end
+		       front-end
+	- individual
+	- explicação do código/estrutura do site
+	- disponibilizado no GitHub
+
+ESTRUTURA DE PASTAS
+web_app
+	imagens <
+	css <
